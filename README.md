@@ -34,11 +34,16 @@ Vascular lesion
 
 ## General Information
 - Provide general information about your project here.
-		We have created various models to analyze the images to find whether the patient is affected by Melanoma or not.	
+
+		We have created various models to analyze the images to find whether the patient is affected by Melanoma or not.
+		
 - What is the background of your project?
+
 		we are using the custom convolutional neural network in tensorflow  to read input images about 2357 to find 
 		whether the patient is affected by Melanoma or not.
+		
 - What is the business probem that your project is trying to solve?
+
 		To find accurately detect melanoma. Melanoma is a type of cancer that can be deadly if not detected early 
 		and our model finds the  data with accuracy of 78% 
 
@@ -49,7 +54,7 @@ Vascular lesion
 
 
 ## Conclusions
-- Conclusion 
+
  	
 The Class rebalance helps to reduce the Overfitting of the data and the loss is being reduced. The result shows that the value of training accuracy as 0.8882 and validation accuracy as 0.7825
 
